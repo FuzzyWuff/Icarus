@@ -6,8 +6,8 @@
       "version": "1.0",
       "compatibility": "all",
       "description": "Multiply the length of the cable/pipe tools (Water, Power, Crude Oil, Refined oil, Biofuel and Beacon Sticks) to be 10 times longer.",
-      "imageURL": "https://github.com/FuzzyWuff/Icarus/blob/main/Chance-LongerCables.PNG",
-      "readmeURL": "https://github.com/FuzzyWuff/Icarus/blob/main/README.md",
+      "imageURL": "https://github.com/FuzzyWuff/Icarus/raw/main/Chance-LongerCables.PNG",
+      "readmeURL": "https://github.com/FuzzyWuff/Icarus/raw/main/README.md",
       "files": {
         "exmodz": "https://github.com/FuzzyWuff/Icarus/raw/main/Chance-LongerCables.EXMODZ"
       }
@@ -17,8 +17,8 @@
       "files": {
         "exmodz": "https://github.com/FuzzyWuff/Icarus/raw/refs/heads/main/Chance-LitSigns.EXMODZ"
       },
-      "readmeURL": "https://github.com/FuzzyWuff/Icarus/blob/main/README.md",
-      "imageURL": "https://github.com/FuzzyWuff/Icarus/blob/main/Chance-LitSigns.PNG",
+      "readmeURL": "https://github.com/FuzzyWuff/Icarus/raw/main/README.md",
+      "imageURL": "https://github.com/FuzzyWuff/Icarus/raw/main/Chance-LitSigns.PNG",
       "author": "Chance_4090",
       "version": "1.0",
       "compatibility": "all",
